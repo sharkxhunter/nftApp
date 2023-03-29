@@ -129,14 +129,3 @@ To run tests, run the following command
 
 Feel free to create an issue to discuss more.
 
-  
-
-
-
-
-
-
-
-
-
-
