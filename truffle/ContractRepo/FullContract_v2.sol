@@ -27,7 +27,6 @@ interface IERC165 {
 
 pragma solidity ^0.5.12;
 
-
 /**
  * @dev Required interface of an ERC721 compliant contract.
  */
